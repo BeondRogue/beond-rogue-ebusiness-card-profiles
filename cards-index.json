@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Nock",
+    "title": "FOUNDER",
+    "slug": "john-nock",
+    "phone": "07359559614",
+    "email": "john@beondrogue.co.uk",
+    "buttons": "exchange,call,email,whatsapp,website,instagram,tiktok,youtube,facebook,linkedin",
+    "created_at": "2026-09-20T00:00:00Z",
+    "url": "https://beondrogue.github.io/beond-rogue-cards/"
+  },
+  {
+    "name": "Fiona Slater",
+    "title": "COMMUNITY MANAGER",
+    "slug": "fiona-slater",
+    "phone": "07359559614",
+    "email": "fiona@beondrogue.co.uk",
+    "buttons": "exchange,call,email,whatsapp,website,instagram,tiktok,youtube,facebook,linkedin",
+    "created_at": "2026-09-20T00:00:00Z",
+    "url": "https://beondrogue.github.io/beond-rogue-cards/fiona.html"
+  },
+  {
+    "name": "Beond Rogue",
+    "title": "Cards & Collectables",
+    "slug": "beond-rogue",
+    "phone": "",
+    "email": "",
+    "buttons": "exchange,website,instagram,tiktok,youtube,facebook,linkedin",
+    "created_at": "2026-09-23T11:50:32Z",
+    "url": "https://beondrogue.github.io/beond-rogue-ebusiness-card-profiles/beond-rogue.html"
+  }
+]
